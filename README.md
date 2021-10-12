@@ -1,8 +1,9 @@
-# GROUP-9(the mighty group-9☺️charrr)
 
-Project repository
+# GROUP-9(the mighty group-9☺️charr☺️)
 
-LEADER: DAYRIT WHENDELYN B.
+Web Blog Project:
+
+LEADER: DAYRIT,WHENDELYN B.
 
 MEMBERS:
 <ul>
