@@ -1,10 +1,12 @@
-# GROUP9
+# GROUP-9(the mighty group-9☺️charrr)
+
 Project repository
 
 LEADER: DAYRIT WHENDELYN B.
 MEMBERS:
-
-  TANGAN,JONALYN,
-  GIYADAN, ARIANNE,
-  LOYON, ABIEL
+<ul>
+  <li>TANGAN,JONALYN,
+  <li>GIYADAN, ARIANNE,
+  <li>LOYON, ABIEL
+<ul>
 
