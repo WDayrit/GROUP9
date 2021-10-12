@@ -3,9 +3,8 @@ Project repository
 
 LEADER: DAYRIT WHENDELYN B.
 MEMBERS:
-<ul>
-  <li>TANGAN,JONALYN,
-  <li>GIYADAN, ARIANNE,
-  <li>LOYON, ABIEL
-<ul>
+
+  TANGAN,JONALYN,
+  GIYADAN, ARIANNE,
+  LOYON, ABIEL
 
